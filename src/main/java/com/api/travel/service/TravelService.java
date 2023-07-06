@@ -36,7 +36,7 @@ public class TravelService {
         return this.travelRepository.save(travel);
     }
     
-    //esto es practicando con regi los cambios de archivos para subir a git desde la consola
+
     
     
 }
